@@ -1,0 +1,32 @@
+_repo: Islanti-tarun-ja-runon-maa_72664
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Inha, Into Konrad
+    aliases:
+    - Inha, I. K. (Into Konrad)
+    - Nyström, Into Konrad
+    - Nystrom, Into Konrad
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '4411'
+    url: http://www.gutenberg.org/2009/agents/4411
+    wikipedia: https://fi.wikipedia.org/wiki/I._K._Inha
+description: ''
+gutenberg_issued: '2024-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72664'
+language: fi
+pgterms:marc905: 20220711014357inha
+pgterms:marc906: '1912'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bKansanvalistusseura, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Islanti: tarun ja runon maa'
+url: http://www.gutenberg.org/ebooks/72664
